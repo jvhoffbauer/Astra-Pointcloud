@@ -1,0 +1,6 @@
+__pychache__
+*.pyc
+/.idea
+.directory
+/venv
+pointcloud-*.pcd
